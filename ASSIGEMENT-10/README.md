@@ -51,9 +51,9 @@ ASSIGEMENT-10/
 **Request Body:**
 ```json
 {
-  "name": "Arman Chaudhary",
-  "email": "arman@example.com",
-  "age": 22,
+  "name": "Arman Chaudhary1",
+  "email": "arman@exam1ple.com",
+  "age": 24,
   "course": "MCA"
 }
 ```
@@ -62,7 +62,7 @@ ASSIGEMENT-10/
 ```json
 {
   "message": "User stored successfully",
-  "userId": "owHu13iBsh0JzY0AcB1z"
+  "userId": "bo05YuFym4oJFQDO7gy6"
 }
 ```
 
